@@ -25,7 +25,8 @@
 
 ## Advertising
 - **Shift: Carpet bombing to microtargeting**: For advertising, the ability to microtarget, and, importantly, micro-measure the impact of ad campaigns/spending sounded like a promised land compared to the fire-and-forget habits of the newspaper / TV age. This is the demand side to tracking's supply side, and the incentives of both sides of the equation explain why it has become so prevalent. 
-- **Q: Click fraud, ad blocking and the arms race**: The brave new world of online ads was soon distrubed by automated click fraud, and later by ad blocking. Since a sizeable proportion of the online economy was by that time inseparable from tracking-based advertising funding it, a technical (and political) escalation of tracking technology ensued. This, in turn, causes more and more invasions of ...
+- **Q: Click fraud, ad blocking and the arms race**: The brave new world of online ads was soon distrubed by automated click fraud, and later by ad blocking. Since a sizeable proportion of the online economy was by that time inseparable from tracking-based advertising funding it, a technical (and political) escalation of tracking technology ensued. This, in turn, causes more and more invasions of...
+
 ## Privacy
 - **Shift: Identity and Privacy needs in digital**: After discussing the how and why of tracking, this is, ostensibly, the reason for worrying about it in the first place. But privacy is a mushy concept. This section deals with some conceptions of it.
   - **From Anonymity to Misrepresentation?**: TBD. Wrestling with the argument that 20th-century conceptions of privacy as concealment are outdated. Can ways be imagined to replace blanket concealment with tools (technical, political, social) to reliably misrepresent a user's identity on command?
