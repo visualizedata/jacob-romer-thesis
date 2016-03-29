@@ -31,7 +31,9 @@
 - **Shift: Identity and Privacy needs in digital**: After discussing the how and why of tracking, this is, ostensibly, the reason for worrying about it in the first place. But privacy is a mushy concept. This section deals with some conceptions of it.
   - **From Anonymity to Misrepresentation?**: TBD. Wrestling with the argument that 20th-century conceptions of privacy as concealment are outdated. Can ways be imagined to replace blanket concealment with tools (technical, political, social) to reliably misrepresent a user's identity on command?
 - **The need for transparency**: Ideally, users should be able to exert some measure of control about their data. For this to happen, users would need a technique to demonstrate their intent to a servie provider and be able to verify that this intent is respected. This, however, implies legibility. When a user visits a site, her intent is to browse that site, not to communicate that intent to 65 external parties. By analogy, do consumers also need to fully understand and explicitly acknowledge the supply chain that makes a pencil they just bought? Is there a meaningful distinction between first-party services and third-party services?
+
 ## Regulation
+
 - **Deficiencies**: Short of a comprehensive survey, common problems can be identified: Regulatory authorities scrambling to catch up to rapidly evolving realities, hampered by regulatory capture. These deficiencies may be overcome by regulation that relies more on principles and tackles the problem on a higher lever, rather than mandating individual programs (See EU cookie law snafu)
 - **Proposals**
   - **Limiting collection**: Imposing legal restrictions on _what data_ can be collected in _what ways_.
