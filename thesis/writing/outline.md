@@ -4,7 +4,7 @@ Introduction
 
 Tracking
 	- Definition
-		- Whence and whither: Analytics, Advertising, or Surveillance
+		- Whence and whither: Analytics, Advertising, and the Data Body
 		- Two Problems: Identifying and Profiling
 			- Identifying
 				- Fingerprinting, Cookies
