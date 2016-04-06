@@ -1,4 +1,46 @@
+var canvas, ctx;
+var body = document.querySelector("body");
+
+var port = chrome.extension.connect({
+    name: "screenshot"
+});
+port.postMessage({
+    request: "screenshot"
+});
+port.onMessage.addListener(function (msg) {
+  canvas = document.createElement("canvas");
+  canvas.setAttribute("id", "ext-canvas");
+  body.appendChild(canvas);
+  ctx = canvas.getContext('2d');
+  resizeCanvas();
+
+  var img = new Image;
+  img.onload = function(){
+    ctx.drawImage(img,0,0, canvas.width, canvas.height); // Or at whatever offset you like
+  };
+  img.src = msg;
+  canvas.classList.add("animated", "infinite", "zoomOutUp");
+
+  window.addEventListener('resize', resizeCanvas, false);
+});
+
+function drawStuff() {
+}
+
+function resizeCanvas() {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+  drawStuff();
+}
+
+// –––––––––
+
+
+
 window.setTimeout(() => {
+}, 2000);
+
+function typeH1() {
   [].slice.call(document.getElementsByTagName("h1")).sort((pre, cur) => {
     return (
       (cur.getBoundingClientRect().width * cur.getBoundingClientRect().height) -
@@ -13,5 +55,4 @@ window.setTimeout(() => {
       }, 1700);
     }
   });
-}, 2000);
-
+}

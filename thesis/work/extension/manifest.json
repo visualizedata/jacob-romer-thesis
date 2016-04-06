@@ -7,19 +7,21 @@
 
   "content_scripts": [
     {
-      "matches": ["<all_urls>"],
+      "matches": ["https://*.facebook.com/*"],
       "css": ["content_style.css", "animate.css"],
       "js": ["jquery.js", "typed.js","content_script.js"],
       "run_at": "document_idle"
     }
   ],
+  "background": {
+    "scripts": ["eventPage.js"]
+  },
   "browser_action": {
-    "default_icon": "icon.png",
-    "default_popup": "popup.html"
+    "default_icon": "icon.png"
   },
   "permissions": [
     "activeTab",
     "tabs",
-    "https://ajax.googleapis.com/"
+    "<all_urls>"
   ]
 }
