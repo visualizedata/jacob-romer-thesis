@@ -1,7 +1,5 @@
 Outline
 
-Introduction
-
 Tracking
 	- Definition
 		- Whence and whither: Analytics, Advertising, and the Data Body
