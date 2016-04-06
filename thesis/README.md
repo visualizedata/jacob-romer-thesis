@@ -1,3 +1,3 @@
-# Thesis
+# Thesis – Working Directory
 
-[Story Map](writing/)
+[Work](work) has the ongoing development, [writing](writing) has outline, story map, and chunks of text/notes.
