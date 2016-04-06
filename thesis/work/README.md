@@ -5,6 +5,11 @@ This folder contains some [research](research) artifacts and ongoing work on the
 If and when the extension happens to be in a valid state, it can be test-driven [like so](https://developer.chrome.com/extensions/getstarted#unpacked).
 
 # Notes
+## ToDO
+- Refactor screenshot from canvas to img for performance
+- smooth transition
+- dev hotkeys for typed & transition
+
 ## Documentation
 - [Chrome Dev: Content Scripts](https://developer.chrome.com/extensions/content_scripts#pi)
 ## Libraries
