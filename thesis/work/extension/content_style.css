@@ -4,12 +4,9 @@
   -webkit-background-size: 200% auto;
   -moz-background-size: 200% auto;
   background-position: 100% 0;    
-  padding: 10px;
-  background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, #eee 50%);
+  padding: 10px 10px 10px 0px ;
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(238,238,238,0.8) 50%);
   transition: background-position 0.5s ease-in-out;
-}
-.textmarker:hover {
-    background-position: -100% 0;
 }
 .typed-cursor{
     background-color:transparent !important;
