@@ -1,0 +1,36 @@
+.textmarker { 
+  display:inline;
+  background-size: 200% auto;
+  -webkit-background-size: 200% auto;
+  -moz-background-size: 200% auto;
+  background-position: 100% 0;    
+  padding: 10px;
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, #eee 50%);
+  transition: background-position 0.5s ease-in-out;
+}
+.textmarker:hover {
+    background-position: -100% 0;
+}
+.typed-cursor{
+    background-color:transparent !important;
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
