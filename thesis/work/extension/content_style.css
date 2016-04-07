@@ -5,7 +5,7 @@
   -moz-background-size: 200% auto;
   background-position: 100% 0;    
   padding: 10px 10px 10px 0px ;
-  background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(238,238,238,0.8) 50%);
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(255,0,0,0.9) 50%);
   transition: background-position 0.5s ease-in-out;
 }
 #ext-canvas-container {
