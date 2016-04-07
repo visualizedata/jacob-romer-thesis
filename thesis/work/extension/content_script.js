@@ -66,8 +66,9 @@ function makeSpace() {
   var pts = [];
   var center = space.size.$divide(2);
   var line = new Line(center).to( space.size );
+  var target = new Vector( 150, 400 );
 
-  var count = 200;
+  var count = Math.random() * 30 + 30;
   var r = Math.min( space.size.x, space.size.y ) * 0.8;
   for (var i=0; i<count; i++) {
     var p = new Vector( Math.random()*r-Math.random()*r, Math.random()*r-Math.random()*r );
@@ -88,16 +89,11 @@ function makeSpace() {
         form.stroke( false ).fill( colors["a" + (i % 4)] ).point( pt, 1 );
 
         // get line from pt to the mouse line
-        var ln = new Line( pt ).to( line.getPerpendicularFromPoint( pt ) );
+        var ln = new Line( pt ).to( target );
 
         // opacity of line derived from distance to the line
         var opacity = Math.min( 0.8, 1 - Math.abs( line.getDistanceFromPoint( pt ) ) / r );
         form.stroke( "rgba(255,255,255," + opacity + ")", 2*(i%20)/20 ).fill( false ).line( ln );
-      }
-    },
-    onMouseAction: function(type, x, y, evt) {
-      if (type=="move") {
-        line.p1.set( x, y );
       }
     }
   });
@@ -107,6 +103,12 @@ function makeSpace() {
   space.bindMouse();
   space.play();
 }
+
+window.document.body.addEventListener("keydown", (e) => {
+    if(e.keyCode === 72) {
+      typeH1();
+    }
+}, false);
 
 window.setTimeout(() => {
 }, 2000);
@@ -122,7 +124,7 @@ function typeH1() {
       console.log(el)
       el.classList.add("bounce", "animated", "textmarker", "invers")
       window.setTimeout(() => {
-        $(el).typed({strings: ["Hello.", "Content Scripts are great.", `Christ on a cross, this site has ${Math.floor(Math.random() * 40 + 1)} trackers!!!1!`], typeSpeed: 10, startDelay: 200});
+        $(el).typed({strings: ["Chrome Extensions are great.", `Christ on a cross, this site has ${Math.floor(Math.random() * 40 + 1)} trackers!!!1!`], typeSpeed: 10, startDelay: 200});
       }, 1700);
     }
   });
