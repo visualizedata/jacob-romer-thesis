@@ -1,5 +1,24 @@
 # Treatment
 
+## Advertising
+The expansion of advertising in the digital domain is the principal reason for the development of tracking technologies.
+The internet is the first medium to enable advertisers to evaluate the performance of their product. The old advertiser adage held that half the money spent on advertising is wasted, but nobody knows which half. This spoke to the fact that only proxy measures such as newspaper circulation, coupon programs or TV ratings could be used to approximate the size and demographic composition of the audience an advertisement was expected to reach. The internet, however, is a duplex channel by nature, and in principle allows advertisers to buy inventory tailored to their goals.
+
+### The Advertising Market
+The amount of spending on advertising as a share of Gross Domestic Product (GDP) in the United States has remained flat for almost a century, varying between 1 and 2 percent of GDP at an average of 1.29%.
+The overall growth of ad spending has tracked GDP growth, with the U.S. market reaching $174 billion in 2015. Global advertising spending is at around half a trillion dollars, with 2014 estimates ranging from $452 billion (McKinsey Global Media Report) to $524 billion (Strategy Analytics Advertising Market Forecast).
+
+### Digital Advertising
+The share of digital advertising has risen to capture about 30% of the overall ad market (Strategy Analytics). Because of the underlying linear growth in total ad spending, this has come at the expense of other media, with print (newspaper and magazine), radio and television advertising losing market share.
+Within the digital market, search-based advertising is the incumbent, accounting for 45% of spending, with Google firmly at the helm. The highest growth rates, however, are found in new digital realms, with social media advertising growing at 30%, video at 29%, and mobile at 20% year over year.
+
+### Targeting
+In addition to measuring audience size, advertisers put a high value on information about who it is they are advertising to. The valuation of a given advertising slot is based on, *inter alia*, the likelihood that it will lead to the intended result, which is commonly either brand awareness or a recipient following a call to action. This likelihood is increased when the ad can be targeted more precisely, e.g. a car advertisement will have a higher impact on people interested in cars, and those who may be in the market for a new one. This incentive gives rise to the principle that the price charged for displaying an ad (Cost per Impression, or CPI) is closely related to the amount of information which can be ascertained about the prospective recipient of that ad. This information can include search behaviour, location, interests, communications, and demographic information. It is the interplay of this supply of information and the demand for precise targeting that produces economic incentives for the increasing collection of user data.
+
+### Online Advertising Fraud
+Another factor that leads to increasing sophistication of tracking technologies is the need to combat online advertising fraud.
+Since the beginning of online advertising there has been abuse in the market, and the technical countermeasures that were developed in response have relied on gathering information on a user's technical setup, from browser to operating system.
+
 ## Tracking
 - **Definition**
   - **Whence and whither: Analytics, Advertising, or Surveillance**: Tracking as it will be described is a _technique_ which can be used for various ends, such as gaining insight into user behaviour, using that insight to target advertising, or using that insight for mining data about user behaviour at a later date. This ambiguity of purpose should be kept in mind while discussing the techniques in the next section.
@@ -21,24 +40,6 @@
 	- Cross-Device
     - Email newsletters
 
-## Advertising
-The expansion of advertising in the digital domain is the principal reason for the development of tracking technologies.
-The internet is the first medium to enable advertisers to evaluate the performance of their product. The old advertiser adage held that half the money spent on advertising is wasted, but nobody knows which half. This spoke to the fact that only proxy measures such as newspaper circulation, coupon programs or TV ratings could be used to approximate the size and demographic composition of the audience an advertisement was expected to reach. The internet, however, is a duplex channel by nature, and in principle allows advertisers to buy inventory tailored to their goals.
-
-### The Advertising Market
-The amount of spending on advertising as a share of Gross Domestic Product (GDP) in the United States has remained flat for almost a century, varying between 1 and 2 percent of GDP at an average of 1.29%.
-The overall growth of ad spending has tracked GDP growth, with the U.S. market reaching $174 billion in 2015. Global advertising spending is at around half a trillion dollars, with 2014 estimates ranging from $452 billion (McKinsey Global Media Report) to $524 billion (Strategy Analytics Advertising Market Forecast).
-
-### Digital Advertising
-The share of digital advertising has risen to capture about 30% of the overall ad market (Strategy Analytics). Because of the underlying linear growth in total ad spending, this has come at the expense of other media, with print (newspaper and magazine), radio and television advertising losing market share.
-Within the digital market, search-based advertising is the incumbent, accounting for 45% of spending, with Google firmly at the helm. The highest growth rates, however, are found in new digital realms, with social media advertising growing at 30%, video at 29%, and mobile at 20% year over year.
-
-### Targeting
-In addition to measuring audience size, advertisers put a high value on information about who it is they are advertising to. The valuation of a given advertising slot is based on, *inter alia*, the likelihood that it will lead to the intended result, which is commonly either brand awareness or a recipient following a call to action. This likelihood is increased when the ad can be targeted more precisely, e.g. a car advertisement will have a higher impact on people interested in cars, and those who may be in the market for a new one. This incentive gives rise to the principle that the price charged for displaying an ad (Cost per Impression, or CPI) is closely related to the amount of information which can be ascertained about the prospective recipient of that ad. This information can include search behaviour, location, interests, communications, and demographic information. It is the interplay of this supply of information and the demand for precise targeting that produces economic incentives for the increasing collection of user data.
-
-### Online Advertising Fraud
-Another factor that leads to increasing sophistication of tracking technologies is the need to combat online advertising fraud.
-Since the beginning of online advertising there has been abuse in the market, and the technical countermeasures that were developed in response have relied on gathering information on a user's technical setup, from browser to operating system.
 
 
 ## Privacy
