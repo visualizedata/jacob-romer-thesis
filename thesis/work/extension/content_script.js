@@ -3,7 +3,6 @@ var body = document.querySelector("body");
 var port = chrome.extension.connect({ name: "screenshot" });
 
 port.onMessage.addListener(function (msg) {
-  console.log("huhu")
   container = document.createElement("div");
   container.setAttribute("id", "ext-canvas-container");
   console.log(container.height)
@@ -22,8 +21,6 @@ port.onMessage.addListener(function (msg) {
 
   ctx = canvas.getContext('2d');
   resizeCanvas();
-
-  console.log("canvas")
 
   var img = new Image;
   img.onload = function(){
@@ -98,7 +95,6 @@ function makeSpace() {
     }
   });
 
-
   // 4. Start playing
   space.bindMouse();
   space.play();
@@ -106,7 +102,7 @@ function makeSpace() {
 
 window.document.body.addEventListener("keydown", (e) => {
     if(e.keyCode === 72) {
-      typeH1();
+      //typeH1();
     }
 }, false);
 
