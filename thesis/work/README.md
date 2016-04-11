@@ -5,6 +5,13 @@ This folder contains some [research](research) artifacts and ongoing work on the
 If and when the extension happens to be in a valid state, it can be test-driven [like so](https://developer.chrome.com/extensions/getstarted#unpacked).
 
 # Notes
+## Ideas
+
+### New transition: Disassemble into pixels that move to create nodes!
+[get average color of image via javascript](http://stackoverflow.com/questions/2541481/get-average-color-of-image-via-javascript)
+[JS Color Thief](https://github.com/lokesh/color-thief/blob/master/src/color-thief.js)
+[Fiddle: Get avg bg color](http://jsfiddle.net/xLF38/818/)
+
 ## ToDO
 - Refactor screenshot from canvas to img for performance
 - smooth transition
