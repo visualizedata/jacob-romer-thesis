@@ -40,8 +40,6 @@ Since the beginning of online advertising there has been abuse in the market, an
 	- Cross-Device
     - Email newsletters
 
-
-
 ## Privacy
 - **Shift: Identity and Privacy needs in digital**: After discussing the how and why of tracking, this is, ostensibly, the reason for worrying about it in the first place. But privacy is a mushy concept. This section deals with some conceptions of it.
   - **From Anonymity to Misrepresentation?**: TBD. Wrestling with the argument that 20th-century conceptions of privacy as concealment are outdated. Can ways be imagined to replace blanket concealment with tools (technical, political, social) to reliably misrepresent a user's identity on command?
