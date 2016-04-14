@@ -1,4 +1,6 @@
 # Notes on Tracking
+## Manifesto Fodder
+[NSA uses Google cookies to pinpoint targets for hacking](https://www.washingtonpost.com/news/the-switch/wp/2013/12/10/nsa-uses-google-cookies-to-pinpoint-targets-for-hacking/)
 [Taboola compromised Reuters, AdBlocking is basic security.](https://medium.com/@FredericJacobs/the-reuters-compromise-by-the-syrian-electronic-army-6bf570e1a85b#.veps3zsef)
 ## Existing Plugins
 
