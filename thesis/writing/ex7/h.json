@@ -1,0 +1,464 @@
+{
+  "wired.com": {
+    "domain": "wired.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 65
+  },
+  "www.wired.com": {
+    "domain": "wired.com",
+    "blockCount": 0,
+    "allowCount": 62,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "optimizely.com": {
+    "domain": "optimizely.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 2
+  },
+  "cdn.optimizely.com": {
+    "domain": "optimizely.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "adobedtm.com": {
+    "domain": "adobedtm.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 6
+  },
+  "assets.adobedtm.com": {
+    "domain": "adobedtm.com",
+    "blockCount": 0,
+    "allowCount": 6,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "subscribe.wired.com": {
+    "domain": "wired.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "2926210385.log.optimizely.com": {
+    "domain": "optimizely.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "cnevids.com": {
+    "domain": "cnevids.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 3
+  },
+  "player.cnevids.com": {
+    "domain": "cnevids.com",
+    "blockCount": 0,
+    "allowCount": 2,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "cloudfront.net": {
+    "domain": "cloudfront.net",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 64
+  },
+  "dwgyu36up6iuz.cloudfront.net": {
+    "domain": "cloudfront.net",
+    "blockCount": 0,
+    "allowCount": 55,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "typekit.net": {
+    "domain": "typekit.net",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 4
+  },
+  "use.typekit.net": {
+    "domain": "typekit.net",
+    "blockCount": 0,
+    "allowCount": 3,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "googletagservices.com": {
+    "domain": "googletagservices.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 1
+  },
+  "www.googletagservices.com": {
+    "domain": "googletagservices.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "zqtk.net": {
+    "domain": "zqtk.net",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 1
+  },
+  "segment-data.zqtk.net": {
+    "domain": "zqtk.net",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "rubiconproject.com": {
+    "domain": "rubiconproject.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 1
+  },
+  "ads.rubiconproject.com": {
+    "domain": "rubiconproject.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "yldbt.com": {
+    "domain": "yldbt.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 2
+  },
+  "cdn.yldbt.com": {
+    "domain": "yldbt.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "amazon-adsystem.com": {
+    "domain": "amazon-adsystem.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 2
+  },
+  "c.amazon-adsystem.com": {
+    "domain": "amazon-adsystem.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "scorecardresearch.com": {
+    "domain": "scorecardresearch.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 3
+  },
+  "b.scorecardresearch.com": {
+    "domain": "scorecardresearch.com",
+    "blockCount": 0,
+    "allowCount": 3,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "dff7tx5c2qbxc.cloudfront.net": {
+    "domain": "cloudfront.net",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "dy48bnzanqw0v.cloudfront.net": {
+    "domain": "cloudfront.net",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "disqus.com": {
+    "domain": "disqus.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 1
+  },
+  "wired.disqus.com": {
+    "domain": "disqus.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "demdex.net": {
+    "domain": "demdex.net",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 1
+  },
+  "condenast.demdex.net": {
+    "domain": "demdex.net",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "stats.wired.com": {
+    "domain": "wired.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "mediavoice.com": {
+    "domain": "mediavoice.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 1
+  },
+  "plugin.mediavoice.com": {
+    "domain": "mediavoice.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "omtrdc.net": {
+    "domain": "omtrdc.net",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 2
+  },
+  "cdn.tt.omtrdc.net": {
+    "domain": "omtrdc.net",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "aam.wired.com": {
+    "domain": "wired.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "googleadservices.com": {
+    "domain": "googleadservices.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 1
+  },
+  "partner.googleadservices.com": {
+    "domain": "googleadservices.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "aax.amazon-adsystem.com": {
+    "domain": "amazon-adsystem.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "ads-adseast.yldbt.com": {
+    "domain": "yldbt.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "googlesyndication.com": {
+    "domain": "googlesyndication.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 2
+  },
+  "tpc.googlesyndication.com": {
+    "domain": "googlesyndication.com",
+    "blockCount": 0,
+    "allowCount": 2,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "condenast.tt.omtrdc.net": {
+    "domain": "omtrdc.net",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "p.typekit.net": {
+    "domain": "typekit.net",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "dnkzzz1hlto79.cloudfront.net": {
+    "domain": "cloudfront.net",
+    "blockCount": 0,
+    "allowCount": 6,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "polarmobile.com": {
+    "domain": "polarmobile.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 1
+  },
+  "pentos-cdn.polarmobile.com": {
+    "domain": "polarmobile.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "mookie1.com": {
+    "domain": "mookie1.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 2
+  },
+  "b3.mookie1.com": {
+    "domain": "mookie1.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "condenastdigital.com": {
+    "domain": "condenastdigital.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 5
+  },
+  "pixel.condenastdigital.com": {
+    "domain": "condenastdigital.com",
+    "blockCount": 0,
+    "allowCount": 2,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "cdn-akamai.mookie1.com": {
+    "domain": "mookie1.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "tiqcdn.com": {
+    "domain": "tiqcdn.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 2
+  },
+  "tags.tiqcdn.com": {
+    "domain": "tiqcdn.com",
+    "blockCount": 0,
+    "allowCount": 2,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "capture.condenastdigital.com": {
+    "domain": "condenastdigital.com",
+    "blockCount": 0,
+    "allowCount": 2,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "googleapis.com": {
+    "domain": "googleapis.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 1
+  },
+  "fonts.googleapis.com": {
+    "domain": "googleapis.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "stats.cnevids.com": {
+    "domain": "cnevids.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "fwmrm.net": {
+    "domain": "fwmrm.net",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 1
+  },
+  "5be16.v.fwmrm.net": {
+    "domain": "fwmrm.net",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "d26t7ex48mr4bn.cloudfront.net": {
+    "domain": "cloudfront.net",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "chartbeat.com": {
+    "domain": "chartbeat.com",
+    "blockCount": 0,
+    "allowCount": 0,
+    "totalBlockCount": 0,
+    "totalAllowCount": 1
+  },
+  "static.chartbeat.com": {
+    "domain": "chartbeat.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  },
+  "event.condenastdigital.com": {
+    "domain": "condenastdigital.com",
+    "blockCount": 0,
+    "allowCount": 1,
+    "totalBlockCount": 0,
+    "totalAllowCount": 0
+  }
+}
