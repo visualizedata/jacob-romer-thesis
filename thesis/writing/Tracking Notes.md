@@ -1,5 +1,5 @@
 # Notes on Tracking
-
+[Taboola compromised Reuters, AdBlocking is basic security.](https://medium.com/@FredericJacobs/the-reuters-compromise-by-the-syrian-electronic-army-6bf570e1a85b#.veps3zsef)
 ## Existing Plugins
 
 ### AdNauseam
