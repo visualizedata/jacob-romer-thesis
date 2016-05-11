@@ -8,7 +8,7 @@ chrome.browserAction.onClicked.addListener(function(tab) {
 
 chrome.extension.onConnect.addListener(function(portName) {
   port = portName;
-  console.assert(portName.name == "screenshot");
+  //console.assert(portName.name == "screenshot");
   port.onMessage.addListener(function(msg) {
     if (msg.request == "screenshot"){
     }
