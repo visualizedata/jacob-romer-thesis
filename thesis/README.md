@@ -2,7 +2,8 @@
 > You can only know what you see,
   you can only act on what you know.
 
-![Screenshot](screen-shot.png)
+![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
 
 _Glimpse is a Chrome extension that reveals the network of entities who watch you on the web, across time, and across space. It shows you who can track where you are on the internet, and where you are in real life._
 
