@@ -1,3 +1,6 @@
 [submodule "thesis/work"]
 	path = thesis/work
 	url = https://github.com/jacobmbr/thesis-cljs
+[submodule "work"]
+	path = work
+	url = https://github.com/jacobmbr/glimpse
