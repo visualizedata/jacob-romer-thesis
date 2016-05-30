@@ -1,0 +1,3 @@
+[submodule "thesis/work"]
+	path = thesis/work
+	url = https://github.com/jacobmbr/thesis-cljs
