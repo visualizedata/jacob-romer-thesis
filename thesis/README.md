@@ -12,4 +12,4 @@ Every time you visit a website, the other party can decide who else to put in th
 Glimpse is an attempt to create legibility around your online footprint: It hooks into your browser and keeps a record of what entities receive information about you. You can go and see what part of your life is exposed to whom.
 
 
-[Work](jacobmbr/thesis-cljs) has the ongoing development, [writing](writing) has outline, story map, and chunks of text/notes.
+[Work](https://github.com/jacobmbr/thesis-cljs) has the ongoing development, [writing](writing) has outline, story map, and chunks of text/notes.
